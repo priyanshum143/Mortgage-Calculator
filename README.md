@@ -17,8 +17,8 @@ This Java Mortgage Calculator is a simple tool for estimating mortgage payments,
 
 To run the mortgage calculator, follow these steps:
 
-1. Create a java project in your PC.
-2. Go in "src" directory.
+-1. Create a java project in your PC.
+-2. Go in "src" directory.
 3. Clone the repository: `https://github.com/priyanshum143/Mortgage-Calculator`
 4. Compile the Java program: `javac App.java`
 5. Run the program: `java App`
